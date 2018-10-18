@@ -9,7 +9,7 @@ def summon_captain_planet(planeteers)
 end
 
 def long_planeteer_calls(calls)
-  calls.include?(calls.length > 4)
+  calls.include?(length > 4)
 
 end
 
